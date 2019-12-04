@@ -1,3 +1,3 @@
 module.exports = {
-  HOST: 'http://localhost:3000/auth/callback'
+  HOST: 'http://flux-radio.herokuapp.com/auth/callback'
 };
