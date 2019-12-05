@@ -1,4 +1,4 @@
-# C - A collaborative listening room using Spotify
+# Flux Radio - A Spotify radio for workaholics
 
 This project is a site where multiple users can propose songs and vote for them, having them played in a synchronised way through Spotify.
 
@@ -23,5 +23,3 @@ Install the dependencies running `npm install`.
 During development, run `npm run dev`.
 
 When running on production, run `npm run build && npm run start`.
-# flux-radio
-# flux-radio
